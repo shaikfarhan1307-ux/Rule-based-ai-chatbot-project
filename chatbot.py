@@ -1,5 +1,5 @@
-#  my project is Rule-Based AI Chatbot
-# DecodeLabs - Artificial Intelligence Project 1
+#  My project is Rule-Based AI Chatbot project -1
+# DecodeLabs - Artificial Intelligence Project -1
 
 # Knowledge base containing 5+ predefined intents
 responses = {
